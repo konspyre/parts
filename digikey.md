@@ -25,7 +25,9 @@
 
 ### Headers (0.1"/2.54mm)
 
-(To be filled, contributions welcome)
+| Part | Description | Digikey |
+|-------|-----------------|-----------|
+| 5 pin - right angle female header | CONN HDR 5POS 0.1 GOLD PCB R/A | [S5480-ND](https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC051LGBN-RC/775938) |
 
 ### Connectors
 
